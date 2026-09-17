@@ -76,5 +76,5 @@ Actually Typing Code Manually     █ 5% (only editing API keys & typos)
 </p>
 
 <p align="center">
-  <sub>Powered by pure vibes, high-temperature prompts, and Indomie Goreng 🍜✨</sub>
+  <sub>Powered by pure vibes, high-temperature prompts, and Indomie Ayam Bawang 🍜✨</sub>
 </p>
