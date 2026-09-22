@@ -22,16 +22,16 @@
 
 ---
 
-## 👋 Tentang Saya
+## 👋 About Me
 
 > *"I used to worry about Big-O notation; now I worry about phrasing prompts so the AI doesn't hallucinate."*
 
-- 🧘‍♂️ **Mantan Software Engineer** yang naik level jadi **Vibe Coder** — dari menulis kode jadi mengarahkan kode
-- 🧠 Fokus pada **prompt engineering** & **AI-assisted development** untuk mengirim fitur lebih cepat
-- 🍜 Menganut **Indomie-Driven Development**: satu prompt, satu rebusan kuah ayam bawang
-- 🚀 Prinsip kerja: kalau jalan, syukuri vibes-nya — jangan tanya kenapa
+- 🧘‍♂️ **Former Software Engineer** who leveled up into a **Vibe Coder** — from writing code to directing it
+- 🧠 Focused on **prompt engineering** & **AI-assisted development** to ship features faster
+- 🍜 A firm believer in **Indomie-Driven Development**: one prompt, one boiling pot of kuah ayam bawang
+- 🚀 Working principle: if it runs, appreciate the vibes — don't ask why
 
-## 📜 Evolusi Karier
+## 📜 Career Evolution
 
 | The Suffering Era (Ex-Software Dev 💀) | The Vibe Era (Ascended Vibe Coder 🧘‍♂️✨) |
 | :-- | :-- |
@@ -53,7 +53,7 @@
   <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
 </p>
 
-**Bahasa & Framework**
+**Languages & Frameworks**
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -101,11 +101,7 @@ Actually Typing Code Manually     █ 5% (only editing API keys & typos)
 | 🎯 **Goal this year** | Shipping a full-stack SaaS using only voice notes while slurping warm noodle soup |
 | ⚡ **Fun fact** | I used to take pride in green commit graphs; now I take pride in a 200k token context window |
 
-## 📈 Aktivitas
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kvnlhm&show_icons=true&hide_border=true&theme=transparent&title_color=DB2777&icon_color=F59E0B" alt="GitHub Stats" />
-</p>
+## 📈 Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=kvnlhm&theme=transparent&hide_border=true&ring=DB2777&fire=F59E0B&currStreakLabel=DB2777" alt="GitHub Streak" />
